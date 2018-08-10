@@ -102,7 +102,7 @@ function getTemplate($name){
                     </tr>
                     <tr>
                         <td align="center">
-                            <h2 style="color: #C6AF38; font-family: sans-serif">Hoy es el cumpleaños de nuestra compareña</h2>
+                            <h2 style="color: #C6AF38; font-family: sans-serif">Hoy es el cumpleaños de nuestr@ compareñ@</h2>
                         </td>
                     </tr>
                     <tr>
